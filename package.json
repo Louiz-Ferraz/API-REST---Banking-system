@@ -1,0 +1,27 @@
+{
+  "name": "desafio-backend-02-sistema-bancario-dbe-t01",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louiz-Ferraz/desafio-backend-02-sistema-bancario-dbe-t01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louiz-Ferraz/desafio-backend-02-sistema-bancario-dbe-t01/issues"
+  },
+  "homepage": "https://github.com/Louiz-Ferraz/desafio-backend-02-sistema-bancario-dbe-t01#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
